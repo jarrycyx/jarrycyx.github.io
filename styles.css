@@ -230,7 +230,7 @@ html, body {
   width: 64px;
   height: 64px;
   border-radius: 32px;
-  margin: 8px 0;
+  margin: 8px 0px;
 }
 .mdl-demo section.section--footer .section__circle--big {
   width: 100px;
