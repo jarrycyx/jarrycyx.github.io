@@ -1994,7 +1994,8 @@
 				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
-				text-transform: none !important;
+				text-tran
+				sform: none !important;
 			}
 
 			input[type="checkbox"] + label:before,
