@@ -30,11 +30,11 @@ query.find().then(function(results) {
     para.appendChild(node);
 
     var element=document.getElementById("main");
-    newDef=def.replace('这里啥也没有',results[idx].get('Title'));
-    newDef=newDef.replace('###idx##',(idx+skipNum)+'');
-    newDef=newDef.replace('网络错误qwq',results[idx].get('Abstract'));
-    newDef=newDef.replace('啊偶，网络开小差了~',results[idx].get('Preview'));
-    newDef=newDef.replace('###pic##',results[idx].get('Picture'));
+    newDef=def.replace(/这里啥也没有/g,results[idx].get('Title'));
+    newDef=newDef.replace(/###idx##/g,(idx+skipNum)+'');
+    newDef=newDef.replace(/网络错误qwq/g,results[idx].get('Abstract'));
+    newDef=newDef.replace(/啊偶，网络开小差了~/g,results[idx].get('Preview'));
+    newDef=newDef.replace(/###pic##/g,results[idx].get('Picture'));
     element.innerHTML+=newDef;
     // results is an array of AV.Object.
     }

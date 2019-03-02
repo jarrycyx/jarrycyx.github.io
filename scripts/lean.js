@@ -1,22 +1,9 @@
-let configs = {};
-try {
- 	configs = JSON.parse(localStorage.getItem('js-sdk-demo/configs')) || {};
-} catch (e) {}
 
-const {
-  	appId = '3o07wvQrrIjt5p1hYliDq5ih-gzGzoHsz',
-  	appKey = 'UFNBYjMVDKdYGHWJh3xEM2EU',
-} = configs;
-
-AV.init({
-	appId,
-	appKey,
-});
 
 var articleList=new Array();
 var query = new AV.Query('Articles');
 var skipNum=0;
-query.descendin	g('createdAt');
+query.descending('createdAt');
 query.skip(skipNum);
 query.limit(10);// 最多返回 10 条结果
 query.find().then(function(results) {
