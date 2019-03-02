@@ -7,12 +7,11 @@ const {
   	appId = '3o07wvQrrIjt5p1hYliDq5ih-gzGzoHsz',
   	appKey = 'UFNBYjMVDKdYGHWJh3xEM2EU',
 } = configs;
-
+/*
 AV.init({
 	appId,
 	appKey,
-});
-var Todo = AV.Object.extend('MyMessages');
+});*/
 
 var articleList=new Array();
 var query = new AV.Query('Articles');
