@@ -7,16 +7,16 @@ const {
   	appId = '3o07wvQrrIjt5p1hYliDq5ih-gzGzoHsz',
   	appKey = 'UFNBYjMVDKdYGHWJh3xEM2EU',
 } = configs;
-/*
+
 AV.init({
 	appId,
 	appKey,
-});*/
+});
 
 var articleList=new Array();
 var query = new AV.Query('Articles');
 var skipNum=0;
-query.descending('createdAt');
+query.descendin	g('createdAt');
 query.skip(skipNum);
 query.limit(10);// 最多返回 10 条结果
 query.find().then(function(results) {
