@@ -20,9 +20,28 @@ var skipNum=0;
 query.descending('createdAt');
 query.skip(skipNum);
 query.limit(10);// 最多返回 10 条结果
+var def=document.getElementById("main").innerHTML;
+document.getElementById("main").innerHTML='';
 query.find().then(function(results) {
-	articleList=results;
-	// results is an array of AV.Object.
+    articleList=results;
+    for (var idx=0;idx<results.length;idx++){
+    var para=document.createElement("p");
+    var node=document.createTextNode("这是新段落。");
+    para.appendChild(node);
+
+    var element=document.getElementById("main");
+    newDef=def.replace('这里啥也没有',results[idx].get('Title'));
+    newDef=newDef.replace('###idx##',(idx+skipNum)+'');
+    newDef=newDef.replace('网络错误qwq',results[idx].get('Abstract'));
+    newDef=newDef.replace('啊偶，网络开小差了~',results[idx].get('Preview'));
+    newDef=newDef.replace('###pic##',results[idx].get('Picture'));
+    element.innerHTML+=newDef;
+    // results is an array of AV.Object.
+    }
+    element.innerHTML+='							<ul class="actions pagination">\
+    <li><a href="" class="disabled button big previous">上一页</a></li>\
+    <li><a href="#" class="button big next">下一页</a></li>\
+    </ul>';
   }, function(error) {
 	// error is an instance of AVError.
   });
@@ -41,7 +60,7 @@ function upLoadMessage(str){
 }
 
 function newArticleOpen(idx){
-	location.href="articles/article.html?"+articleList[skipNum+idx].get('Index');
+	location.href="articles/article.html?"+articleList[idx].get('Index');
 }
 
 
