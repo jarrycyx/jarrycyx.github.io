@@ -1,3 +1,4 @@
+
 let configs = {};
 try {
   configs = JSON.parse(localStorage.getItem('js-sdk-demo/configs')) || {};

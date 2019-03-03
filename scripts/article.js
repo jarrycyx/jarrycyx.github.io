@@ -1,3 +1,5 @@
+
+
 var loc = location.href;
 var n1 = loc.length;//地址的总长度
 var n2 = loc.indexOf("?");//取得?号的位置
