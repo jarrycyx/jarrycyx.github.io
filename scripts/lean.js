@@ -3,13 +3,13 @@ function randomsort(a, b) {
 	//用Math.random()函数生成0~1之间的随机数与0.5比较，返回-1或1
 }
 
-var articleList = new Array();
+var articleList_lean = new Array();
 var query = new AV.Query('Articles');
 var def_mini = document.getElementById("id-mini-posts").innerHTML;
 document.getElementById("id-mini-posts").innerHTML = '';
 query.find().then(function (results) {
-	articleList = results;
-	articleList.sort(randomsort);
+	articleList_lean = results;
+	articleList_lean.sort(randomsort);
 
 	for (var idx = 0; idx < Math.min(5,results.length); idx++) {
 		var element_mini = document.getElementById("id-mini-posts");
