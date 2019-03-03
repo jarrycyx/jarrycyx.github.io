@@ -1,34 +1,36 @@
+function randomsort(a, b) {
+	return Math.random() > .5 ? -1 : 1;
+	//用Math.random()函数生成0~1之间的随机数与0.5比较，返回-1或1
+}
 
-
-var articleList=new Array();
+var articleList = new Array();
 var query = new AV.Query('Articles');
-var skipNum=0;
-query.descending('createdAt');
-query.skip(skipNum);
-query.limit(10);// 最多返回 10 条结果
-query.find().then(function(results) {
-	articleList=results;
+var def_mini = document.getElementById("id-mini-posts").innerHTML;
+document.getElementById("id-mini-posts").innerHTML = '';
+query.find().then(function (results) {
+	articleList = results;
+	articleList.sort(randomsort);
+
+	for (var idx = 0; idx < Math.min(5,results.length); idx++) {
+		var element_mini = document.getElementById("id-mini-posts");
+		newDef = def_mini.replace(/这里啥也没有/g, results[idx].get('Title'));
+		newDef = newDef.replace(/###idx##/g, (idx) + '');
+		newDef = newDef.replace(/网络错误qwq/g, results[idx].get('Abstract'));
+		newDef = newDef.replace(/啊偶，网络开小差了~/g, results[idx].get('Preview'));
+		newDef = newDef.replace(/###pic##/g, results[idx].get('Picture'));
+		element_mini.innerHTML += newDef;
+		// results is an array of AV.Object.
+	}
 	// results is an array of AV.Object.
-  }, function(error) {
+}, function (error) {
 	// error is an instance of AVError.
-  });
-function upLoadMessage(str){
-	// 新建一个 Todo 对象
-	var text=document.getElementById('hello-message').value;
-	var todo = new Todo();
-	todo.set('Text', text);
-	todo.save().then(function (todo) {
-		// 成功保存之后，执行其他逻辑.
-		alert('你的问候信息 '+text+' 正通过LeanCloud中国华北节点向CYX高速传输，当然我看不看是个问题(=_=)');
-	}, function (error) {
-		// 异常处理
-		alert("也不知道是你的网有问题还是我的服务器有问题(=_=)");
-	});
-}
+});
 
-function newArticleOpen(idx){
-	location.href="articles/article.html?"+articleList[skipNum+idx].get('Index');
-}
 
+
+
+function newArticleOpen(idx) {
+  location.href = "article.html?" + articleList[idx].get('Index');
+}
 
 

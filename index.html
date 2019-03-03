@@ -197,41 +197,38 @@
 
 						<!-- Mini Posts -->
 							<section>
-								<div class="mini-posts">
+								<div class="mini-posts"  id="id-mini-posts">
 
 
 									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
-												<h3><a href="articles/a1_the_beginning.html">一只小兔子</a></h3>
-												<time class="published" datetime="2015-10-20">January 19, 2019</time>
-												<a href="articles/a1_the_beginning.html" class="author"><img src="images/logo.jpg" alt="" /></a>
-											</header>
-											<a href="articles/a1_the_beginning.html" class="image"><img src="images/pic04.jpg" alt="" /></a>
-										</article>
-
-									
-									<!-- Mini Post -->
-										<article class="mini-post">
-											<header>
-												<h3><a href="articles/a2_stars_and_candlelight.html">星星和烛火</a></h3>
+												<h3><a onclick="newArticleOpen(###idx##)">这里啥也没有</a></h3>
 												<time class="published" datetime="2015-10-19">January 31, 2019</time>
-												<a href="articles/a2_stars_and_candlelight.html" class="author"><img src="images/logo.jpg" alt="" /></a>
+												<a onclick="newArticleOpen(###idx##)" class="author"><img src="../images/logo.jpg" alt="" /></a>
 											</header>
-											<a href="articles/a2_stars_and_candlelight.html" class="image"><img src="images/stars_1.jpg" alt="" /></a>
+											<a onclick="newArticleOpen(###idx##)" class="image"><img src="###pic##"/></a>
+										</article>
+<!--
+										<article class="mini-post">
+											<header>
+												<h3><a href="#">一只小兔子</a></h3>
+												<time class="published" datetime="2015-10-20">January 19, 2019</time>
+												<a href="#" class="author"><img src="../images/logo.jpg" alt="" /></a>
+											</header>
+											<a href="#" class="image"><img src="../images/pic04.jpg" alt="" /></a>
 										</article>
 
-									<!-- Mini Post -->
 										<article class="mini-post">
 											<header>
 												<h3><a href="../articles/a1_the_beginning.html">故事的开始</a></h3>
 												<time class="published" datetime="2015-10-19">January 15, 2019</time>
-												<a href="../articles/a1_the_beginning.html" class="author"><img src="images/logo.jpg" alt="" /></a>
+												<a href="../articles/a1_the_beginning.html" class="author"><img src="../images/logo.jpg" alt="" /></a>
 											</header>
-											<a href="../articles/a1_the_beginning.html" class="image"><img src="images/footprint_2.jpg" alt="" /></a>
+											<a href="../articles/a1_the_beginning.html" class="image"><img src="../images/footprint_2.jpg" alt="" /></a>
 										</article>
 
-									
+-->
 
 								</div>
 							</section>
@@ -278,5 +275,6 @@
     		<script src="https://unpkg.com/vue/dist/vue.js"></script>
 			
 			<script src="scripts/lean_main.js"></script>
+			<script src="scripts/lean.js"></script>
 	</body>
 </html>
