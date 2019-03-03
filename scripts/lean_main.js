@@ -56,3 +56,38 @@ function upLoadMessage(str) {
   });
 }
 
+function randomsort(a, b) {
+	return Math.random() > .5 ? -1 : 1;
+	//用Math.random()函数生成0~1之间的随机数与0.5比较，返回-1或1
+} 
+
+var articleList_lean = new Array();
+var query_lean = new AV.Query('Articles');
+var def_mini = document.getElementById("id-mini-posts").innerHTML;
+document.getElementById("id-mini-posts").innerHTML = '';
+query_lean.find().then(function (results_lean) {
+	articleList_lean = results_lean;
+	articleList_lean.sort(randomsort);
+
+	for (var idx = 0; idx < Math.min(5,results_lean.length); idx++) {
+		var element_mini_lean = document.getElementById("id-mini-posts");
+		newDef_lean = def_mini.replace(/这里啥也没有/g, results_lean[idx].get('Title'));
+		newDef_lean = newDef_lean.replace(/###idx##/g, (idx) + '');
+		newDef_lean = newDef_lean.replace(/网络错误qwq/g, results_lean[idx].get('Abstract'));
+		newDef_lean = newDef_lean.replace(/啊偶，网络开小差了~/g, results_lean[idx].get('Preview'));
+		newDef_lean = newDef_lean.replace(/###pic##/g, results_lean[idx].get('Picture'));
+		element_mini_lean.innerHTML += newDef_lean;
+		// results is an array of AV.Object.
+	}
+	// results is an array of AV.Object.
+}, function (error) {
+	// error is an instance of AVError.
+});
+
+function newArticleOpen_lean(idx) {
+  location.href = "article.html?" + articleList_lean[idx].get('Index');
+}
+
+function newArticleOpen(idx) {
+  location.href = "article.html?" + articleList[idx].get('Index');
+}

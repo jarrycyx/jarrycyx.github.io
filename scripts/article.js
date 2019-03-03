@@ -24,6 +24,4 @@ query.first().then(function (data) {
 	// data 就是符合条件的第一个 AV.Object
 	document.getElementById('main').innerHTML = data.get('Data');
 }, function (error) {
-
-	alert('!');
 });

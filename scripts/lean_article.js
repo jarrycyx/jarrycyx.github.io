@@ -26,9 +26,6 @@ query.find().then(function (results_lean) {
 	// error is an instance of AVError.
 });
 
-
-
-
 function newArticleOpen(idx) {
-  location.href = "article.html?" + articleList[idx].get('Index');
+  location.href = "article.html?" + articleList_lean[idx].get('Index');
 }
