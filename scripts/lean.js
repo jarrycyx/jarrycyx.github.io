@@ -7,17 +7,17 @@ var articleList_lean = new Array();
 var query = new AV.Query('Articles');
 var def_mini = document.getElementById("id-mini-posts").innerHTML;
 document.getElementById("id-mini-posts").innerHTML = '';
-query.find().then(function (results) {
-	articleList_lean = results;
+query.find().then(function (results_lean) {
+	articleList_lean = results_lean;
 	articleList_lean.sort(randomsort);
 
-	for (var idx = 0; idx < Math.min(5,results.length); idx++) {
+	for (var idx = 0; idx < Math.min(5,results_lean.length); idx++) {
 		var element_mini = document.getElementById("id-mini-posts");
-		newDef = def_mini.replace(/这里啥也没有/g, results[idx].get('Title'));
+		newDef = def_mini.replace(/这里啥也没有/g, results_lean[idx].get('Title'));
 		newDef = newDef.replace(/###idx##/g, (idx) + '');
-		newDef = newDef.replace(/网络错误qwq/g, results[idx].get('Abstract'));
-		newDef = newDef.replace(/啊偶，网络开小差了~/g, results[idx].get('Preview'));
-		newDef = newDef.replace(/###pic##/g, results[idx].get('Picture'));
+		newDef = newDef.replace(/网络错误qwq/g, results_lean[idx].get('Abstract'));
+		newDef = newDef.replace(/啊偶，网络开小差了~/g, results_lean[idx].get('Preview'));
+		newDef = newDef.replace(/###pic##/g, results_lean[idx].get('Picture'));
 		element_mini.innerHTML += newDef;
 		// results is an array of AV.Object.
 	}
@@ -32,5 +32,3 @@ query.find().then(function (results) {
 function newArticleOpen(idx) {
   location.href = "article.html?" + articleList[idx].get('Index');
 }
-
-
