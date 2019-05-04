@@ -18,11 +18,11 @@ var Todo = AV.Object.extend('MyMessages');
 var articleList = new Array();
 var query = new AV.Query('Articles');
 var skipNum = 0;
-query.descending('Rank');
 query.skip(skipNum);
 query.limit(10);// 最多返回 10 条结果
 var def = document.getElementById("main").innerHTML;
 document.getElementById("main").innerHTML = '';
+query.descending('Rank');
 query.find().then(function (results) {
   articleList = results;
   for (var idx = 0; idx < results.length; idx++) {
