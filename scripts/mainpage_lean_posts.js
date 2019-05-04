@@ -86,9 +86,9 @@ query_lean.find().then(function (results_lean) {
 });
 
 function newArticleOpen_lean(idx) {
-  location.href = "article.html?" + articleList_lean[idx].get('Index');
+  location.href = "HTMLs/article.html?" + articleList_lean[idx].get('Index');
 }
 
 function newArticleOpen(idx) {
-  location.href = "article.html?" + articleList[idx].get('Index');
+  location.href = "HTMLs/article.html?" + articleList[idx].get('Index');
 }

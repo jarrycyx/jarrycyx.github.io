@@ -30,5 +30,5 @@ query.find().then(function (results_lean) {
 });
 
 function newArticleOpen(idx) {
-  location.href = "article.html?" + articleList_lean[idx].get('Index');
+  location.href = "HTMLs/article.html?" + articleList_lean[idx].get('Index');
 }
