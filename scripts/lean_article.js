@@ -9,6 +9,7 @@ var articleList_lean = new Array();
 var query = new AV.Query('Articles');
 var def_mini = document.getElementById("id-mini-posts").innerHTML;
 document.getElementById("id-mini-posts").innerHTML = '';
+query.descending('Rank');
 query.find().then(function (results_lean) {
 	articleList_lean = results_lean;
 	articleList_lean.sort(randomsort);
