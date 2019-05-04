@@ -92,3 +92,9 @@ function newArticleOpen_lean(idx) {
 function newArticleOpen(idx) {
   location.href = "HTMLs/article.html?" + articleList[idx].get('Index');
 }
+
+
+function openFile () {
+  var url = "1.pdf";
+  window.open("pdfjs/web/viewer.html?file=" + url);
+}
