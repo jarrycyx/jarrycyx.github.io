@@ -13,7 +13,7 @@ query.descending('Rank');
 query.find().then(function (results_lean) {
 	articleList_lean = results_lean;
 	//articleList_lean.sort(randomsort);
-
+	
 	for (var idx = 0; idx < Math.min(5,results_lean.length); idx++) {
 		var element_mini = document.getElementById("id-mini-posts");
 		newDef = def_mini.replace(/这里啥也没有/g, results_lean[idx].get('Title'));
