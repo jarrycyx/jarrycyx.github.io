@@ -94,5 +94,5 @@ function newArticleOpen_lean(idx) {
 function newArticleOpen(idx) {
   if (articleList[idx].get('Mode')==0)
     location.href = "HTMLs/article.html?" + articleList[idx].get('Index');
-  else window.open(articleList[idx].get('Pdf_Add');
+  else window.open(articleList[idx].get('Pdf_Add'));
 }
