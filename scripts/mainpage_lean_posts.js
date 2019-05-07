@@ -88,7 +88,7 @@ query_lean.find().then(function (results_lean) {
 function newArticleOpen_lean(idx) {
   if (articleList_lean[idx].get('Mode')==0)
     location.href = "HTMLs/article.html?" + articleList_lean[idx].get('Index');
-  else window.open(articleList_lean[idx].get('Pdf_Add');
+  else window.open(articleList_lean[idx].get('Pdf_Add'));
 }
 
 function newArticleOpen(idx) {
