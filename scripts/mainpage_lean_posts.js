@@ -88,11 +88,11 @@ query_lean.find().then(function (results_lean) {
 function newArticleOpen_lean(idx) {
   if (articleList_lean[idx].get('Mode')==0)
     location.href = "HTMLs/article.html?" + articleList_lean[idx].get('Index');
-  else location.href = articleList_lean[idx].get('Pdf_Add');
+  else window.open(articleList_lean[idx].get('Pdf_Add');
 }
 
 function newArticleOpen(idx) {
   if (articleList[idx].get('Mode')==0)
     location.href = "HTMLs/article.html?" + articleList[idx].get('Index');
-  else location.href = articleList[idx].get('Pdf_Add');
+  else window.open(articleList[idx].get('Pdf_Add');
 }
