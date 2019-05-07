@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 5 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_5{
+font-size: 16.67px;
+font-family: SimSun_4t;
+fill: #000000;
+}
+.s2_5{
+font-size: 16.67px;
+font-family: SimSun_3i;
+fill: #000000;
+}
+.s3_5{
+font-size: 16.67px;
+font-family: SimSun_4u;
+fill: #000000;
+}
+.s4_5{
+font-size: 16.67px;
+font-family: SimSun_4v;
+fill: #000000;
+}
+.s5_5{
+font-size: 16.67px;
+font-family: SimSun_4w;
+fill: #000000;
+}
+.s6_5{
+font-size: 16.67px;
+font-family: SimSun_5d;
+fill: #000000;
+}
+.s7_5{
+font-size: 16.67px;
+font-family: SimSun_4y;
+fill: #000000;
+}
+.s8_5{
+font-size: 16.67px;
+font-family: SimSun_5j;
+fill: #000000;
+}
+.s9_5{
+font-size: 16.67px;
+font-family: SimSun_6_;
+fill: #000000;
+}
+.s10_5{
+font-size: 13.70px;
+font-family: TeXGyreTermes-Regular_3l;
+fill: #000000;
+}
+.s11_5{
+font-size: 13.70px;
+font-family: TeXGyreTermes-Italic_3m;
+fill: #000000;
+}
+.s12_5{
+font-size: 13.70px;
+font-family: SimSun_4v;
+fill: #000000;
+}
+.s13_5{
+font-size: 13.70px;
+font-family: SimSun_5d;
+fill: #000000;
+}
+.s14_5{
+font-size: 13.70px;
+font-family: SimSun_5k;
+fill: #000000;
+}
+.s15_5{
+font-size: 13.70px;
+font-family: SimSun_51;
+fill: #000000;
+}
+.s16_5{
+font-size: 13.70px;
+font-family: SimSun_5b;
+fill: #000000;
+}
+.s17_5{
+font-size: 13.70px;
+font-family: SimSun_55;
+fill: #000000;
+}
+.s18_5{
+font-size: 13.70px;
+font-family: SimSun_5w;
+fill: #000000;
+}
+.s19_5{
+font-size: 13.70px;
+font-family: SimSun_4t;
+fill: #000000;
+}
+.s20_5{
+font-size: 13.70px;
+font-family: SimSun_3i;
+fill: #000000;
+}
+.s21_5{
+font-size: 13.70px;
+font-family: SimSun_4u;
+fill: #000000;
+}
+.s22_5{
+font-size: 13.70px;
+font-family: SimSun_4w;
+fill: #000000;
+}
+.s23_5{
+font-size: 13.70px;
+font-family: SimSun_5q;
+fill: #000000;
+}
+.s24_5{
+font-size: 13.70px;
+font-family: SimSun_4x;
+fill: #000000;
+}
+.s25_5{
+font-size: 13.70px;
+font-family: SimSun_5e;
+fill: #000000;
+}
+.s26_5{
+font-size: 13.70px;
+font-family: SimSun_56;
+fill: #000000;
+}
+.s27_5{
+font-size: 13.70px;
+font-family: SimSun_65;
+fill: #000000;
+}
+.s28_5{
+font-size: 13.70px;
+font-family: SimSun_58;
+fill: #000000;
+}
+.s29_5{
+font-size: 13.70px;
+font-family: KaiTi_3s;
+fill: #000000;
+}
+.s30_5{
+font-size: 13.70px;
+font-family: KaiTi_90;
+fill: #000000;
+}
+.s31_5{
+font-size: 13.70px;
+font-family: KaiTi_91;
+fill: #000000;
+}
+.s32_5{
+font-size: 13.70px;
+font-family: KaiTi_3q;
+fill: #000000;
+}
+.s33_5{
+font-size: 13.70px;
+font-family: KaiTi_4c;
+fill: #000000;
+}
+.s34_5{
+font-size: 13.70px;
+font-family: KaiTi_4p;
+fill: #000000;
+}
+.s35_5{
+font-size: 13.70px;
+font-family: SimSun_7f;
+fill: #000000;
+}
+.s36_5{
+font-size: 13.70px;
+font-family: SimSun_54;
+fill: #000000;
+}
+.s37_5{
+font-size: 13.70px;
+font-family: SimSun_7l;
+fill: #000000;
+}
+.s38_5{
+font-size: 13.70px;
+font-family: SimSun_5x;
+fill: #000000;
+}
+.s39_5{
+font-size: 13.70px;
+font-family: SimSun_5s;
+fill: #000000;
+}
+.s40_5{
+font-size: 13.70px;
+font-family: SimSun_5h;
+fill: #000000;
+}
+.s41_5{
+font-size: 13.70px;
+font-family: SimSun_5r;
+fill: #000000;
+}
+.s42_5{
+font-size: 13.70px;
+font-family: SimSun_63;
+fill: #000000;
+}
+.s43_5{
+font-size: 13.70px;
+font-family: SimSun_60;
+fill: #000000;
+}
+.s44_5{
+font-size: 13.70px;
+font-family: SimSun_66;
+fill: #000000;
+}
+.s45_5{
+font-size: 13.70px;
+font-family: SimSun_5j;
+fill: #000000;
+}
+.s46_5{
+font-size: 13.70px;
+font-family: SimSun_5g;
+fill: #000000;
+}
+.s47_5{
+font-size: 13.70px;
+font-family: SimSun_5p;
+fill: #000000;
+}
+.s48_5{
+font-size: 13.70px;
+font-family: SimSun_5u;
+fill: #000000;
+}
+.s49_5{
+font-size: 13.70px;
+font-family: SimSun_3h;
+fill: #000000;
+}
+.s50_5{
+font-size: 13.70px;
+font-family: SimSun_7e;
+fill: #000000;
+}
+.s51_5{
+font-size: 13.70px;
+font-family: SimSun_4-;
+fill: #000000;
+}
+.s52_5{
+font-size: 13.70px;
+font-family: SimSun_5y;
+fill: #000000;
+}
+.s53_5{
+font-size: 13.70px;
+font-family: SimSun_5z;
+fill: #000000;
+}
+.s54_5{
+font-size: 13.70px;
+font-family: SimSun_7a;
+fill: #000000;
+}
+.s55_5{
+font-size: 13.70px;
+font-family: SimSun_4_;
+fill: #000000;
+}
+.s56_5{
+font-size: 13.70px;
+font-family: SimSun_5t;
+fill: #000000;
+}
+.s57_5{
+font-size: 13.70px;
+font-family: SimSun_5n;
+fill: #000000;
+}
+.s58_5{
+font-size: 13.70px;
+font-family: SimSun_5l;
+fill: #000000;
+}
+.s59_5{
+font-size: 13.70px;
+font-family: SimSun_53;
+fill: #000000;
+}
+.s60_5{
+font-size: 13.70px;
+font-family: SimSun_7b;
+fill: #000000;
+}
+.s61_5{
+font-size: 13.70px;
+font-family: KaiTi_4b;
+fill: #000000;
+}
+.s62_5{
+font-size: 16.67px;
+font-family: TeXGyreTermes-Regular_3l;
+fill: #000000;
+}
+
+.g0_5{
+fill: none;
+stroke: #000000;
+stroke-width: 0.6080556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text x="375" y="68" class="s1_5">面</text>
+<text x="392" y="68" class="s2_5">孔</text>
+<text x="409" y="68" class="s3_5">吸</text>
+<text x="425" y="68" class="s4_5">引</text>
+<text x="442" y="68" class="s5_5">力</text>
+<text x="459" y="68" class="s6_5">及</text>
+<text x="475" y="68" class="s7_5">其</text>
+<text x="492" y="68" class="s4_5">形</text>
+<text x="509" y="68" class="s8_5">成</text>
+<text x="525" y="68" class="s6_5">原</text>
+<text x="542" y="68" class="s9_5">因</text>
+<path d="M110,74.7H825" class="g0_5" />
+<text transform="matrix(1.02, 0, 0, 1, 110, 126)" dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,1.4,0,0,0,0,0,0.3,0,0,0,-0.1,0,0,0,-0.1,0,-0.4,-0.3,0,0,0,0,0,-0.1,0,0,-0.1,0,-0.4,-0.3,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,1.4,0,0,0,0,0,0,-0.5,0,0,0,0.3,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,-0.5,0,0,0,0" class="s10_5">乃乵乮乮乩乮乧乨乡乭丬 乍丮 乒丮 丨丱丹丸丶丩丮 乍乥乡乳乵乲乩乮乧 乴乨乥 买乨乹乳乩乣乡乬 乩乮 买乨乹乳乩乣乡乬 乡乴乴乲乡乣乴乩乶乥乮乥乳乳为 乑乵乡乳乩中乥乸买乥乲乩乭乥乮乴乳 乯乮 乴乨乥 乳乯乣乩乯乢乩乯乬乯乧乹 乯书 书乥乭乡乬乥</text>
+<text x="126" y="148" dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-1" class="s10_5">书乡乣乩乡乬 乢乥乡乵乴乹丮</text>
+<text x="204" y="148" dx="0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,0,0,0,0" class="s11_5">Journal of personality and social psychology</text>
+<text x="450" y="148" class="s10_5">丬 丵丰丨丵丩为丹串丵丮</text>
+<text transform="matrix(0.99, 0, 0, 1, 110, 170)" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,-0.2,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s10_5">乄乩乯乮丬 之丮丬 乂乥乲乳乣乨乥乩乤丬 久丮丬 乡乮乤 乗乡乬乳乴乥乲丬 久丮 丨丱丹丷串丩丮 乗乨乡乴 乩乳 乢乥乡乵乴乩书乵乬 乩乳 乧乯乯乤丮</text>
+<text transform="matrix(0.99, 0, 0, 1, 518, 170)" dx="0,0,0,0,0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,0,0,0,0" class="s11_5">Journal of personality and social psychology</text>
+<text transform="matrix(0.99, 0, 0, 1, 763, 170)" class="s10_5">丬 串临丨丳丩为串丸丵丮</text>
+<text x="110" y="192" dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.5,0,0.3,0,0,-0.2,0,0,0,0,0,0,0,0.3,0,-0.2,0,-0.5,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s10_5">之乬乡买买乥乲丬 乁丮丬 乄乯乴乳乣乨丬 乒丮丬 乶乡乮 乒乯乯乩乪丬 义丮丬 乡乮乤 乗乩乧乢乯乬乤乵乳丬 乄丮 么丮 丨串丰丱丶丩丮 乄乯 乷乥 乳买乯乮乴乡乮乥乯乵乳乬乹 书乯乲乭 乳乴乡乢乬乥 乴乲乵乳乴乷乯乲乴乨乩乮乥乳乳 乩乭买乲乥乳乳乩乯乮乳</text>
+<text x="126" y="213" dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s10_5">书乲乯乭 书乡乣乩乡乬 乡买买乥乡乲乡乮乣乥丿</text>
+<text x="264" y="213" dx="0,0,0,0,0.2,0,0,0,0,0,0,0,-1.1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,0,0,0,0" class="s11_5">Journal of Personality and Social Psychology</text>
+<text x="514" y="213" class="s10_5">丬 丱丱丱丨丵丩为丶丵丵丮</text>
+<text transform="matrix(1.02, 0, 0, 1, 110, 235)" dx="0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,-1.4,0,0,0,0,0,-0.4,-0.3,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0.8,0,0,0,-0.4,-0.9,0,0.8,0,0,0,0.8,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0.8,0,0,0.7,0,0,0,0,0,0,0,3.3,-0.3,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0.7,0,0,0.7,-0.3,0,0,0,0,0,0.7,-0.4,-0.5,0,0,0,-0.3,0,0,0,0,0,0.7,0,0" class="s10_5">乒乨乯乤乥乳丬 乇丮丬 乙乯乳乨乩乫乡乷乡丬 乓丮丬 乃乬乡乲乫丬 乁丮丬 乌乥乥丬 之丮丬 乍乣之乡乹丬 乒丮丬 乡乮乤 乁乫乡乭乡乴乳乵丬 乓丮 丨串丰丰丱丩丮 乁乴乴乲乡乣乴乩乶乥乮乥乳乳 乯书 书乡乣乩乡乬 乡乶乥乲乡乧乥乮乥乳乳 乡乮乤</text>
+<text transform="matrix(1.02, 0, 0, 1, 126, 257)" dx="0,0,0,0,0,0,0,0.3,0,0.7,0,0,0.7,0,0,0,0,-0.4,0,-0.2,0,0,0.3,0,0.7,0,0,0,0,0,0,0,0,0,3,0,0,0.7,0,0,0,0,-0.2,0,0.7,0,0,0.7,0,0,0,0,0,0,0,0,0,0,-0.3,0,0.7,0,0,0,0,0,0.7,-0.2,0,0,0,0,0,0,0,0,0.7,0,0,0.7,0,0,0,0,0,-1" class="s10_5">乳乹乭乭乥乴乲乹 乩乮 乮乯乮中乷乥乳乴乥乲乮 乣乵乬乴乵乲乥乳为 义乮 乳乥乡乲乣乨 乯书 乢乩乯乬乯乧乩乣乡乬乬乹 乢乡乳乥乤 乳乴乡乮乤乡乲乤乳 乯书 乢乥乡乵乴乹丮</text>
+<text transform="matrix(1.02, 0, 0, 1, 626, 257)" dx="0,-1.1,0,-0.3,0,0,-0.2,0,0,0" class="s11_5">Perception</text>
+<text transform="matrix(1.02, 0, 0, 1, 686, 257)" dx="0,0,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.4,0,0,0,0" class="s10_5">丬 丳丰丨丵丩为丶丱丱丕丶串丵丮 乐乍义乄为</text>
+<text x="125" y="279" class="s10_5">丱丱临丳丰串临丵丮</text>
+<text transform="matrix(1.01, 0, 0, 1, 110, 300)" dx="0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,-0.1,0,0,0,-0.1,-0.5,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,1.4,0,0,0,0,-0.1,0,0,-0.3,0,0,-0.1,0,-0.1,-0.3,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.5,0,-0.1,0,0,0,-0.1,0,-0.4,-0.3,0,1.5,0,0,0,-0.1,0,0,0,0,-0.1,0,0,-0.1,-0.4,-0.5,0,0,0,-0.3,0,0,0,0,0,-0.1,0" class="s10_5">乒乵乢乥乮乳乴乥乩乮丬 乁丮 乊丮丬 乌乡乮乧乬乯乩乳丬 乊丮 么丮丬 乡乮乤 乒乯乧乧乭乡乮丬 乌丮 乁丮 丨串丰丰串丩丮 乗乨乡乴 乭乡乫乥乳 乡 书乡乣乥 乡乴乴乲乡乣乴乩乶乥 乡乮乤 乷乨乹为 乔乨乥 乲乯乬乥 乯书 乡乶乥乲乡乧乥乮乥乳乳 乩乮</text>
+<text x="126" y="322" dx="0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-1" class="s10_5">乤乥东乮乩乮乧 书乡乣乩乡乬 乢乥乡乵乴乹丮</text>
+<text x="110" y="344" class="s12_5">徐</text>
+<text x="123" y="344" class="s13_5">华</text>
+<text x="137" y="344" class="s14_5">伟</text>
+<text x="151" y="344" class="s10_5">丬</text>
+<text x="157" y="344" class="s15_5">牛</text>
+<text x="171" y="344" class="s16_5">盾</text>
+<text x="185" y="344" class="s10_5">丬 乡乮乤</text>
+<text x="215" y="344" class="s17_5">李</text>
+<text x="229" y="344" class="s18_5">倩</text>
+<text x="246" y="344" class="s10_5">丨串丰丱丶丩丮</text>
+<text x="291" y="344" class="s19_5">面</text>
+<text x="304" y="344" class="s20_5">孔</text>
+<text x="318" y="344" class="s21_5">吸</text>
+<text x="332" y="344" class="s12_5">引</text>
+<text x="345" y="344" class="s22_5">力</text>
+<text x="359" y="344" class="s21_5">和</text>
+<text x="373" y="344" class="s23_5">配</text>
+<text x="386" y="344" class="s18_5">偶</text>
+<text x="400" y="344" class="s24_5">价</text>
+<text x="414" y="344" class="s18_5">值</text>
+<text x="428" y="344" class="s25_5">：</text>
+<text x="441" y="344" class="s26_5">进</text>
+<text x="455" y="344" class="s13_5">化</text>
+<text x="469" y="344" class="s12_5">心</text>
+<text x="482" y="344" class="s27_5">理</text>
+<text x="496" y="344" class="s20_5">学</text>
+<text x="510" y="344" class="s28_5">视角</text>
+<text x="537" y="344" class="s10_5">丮</text>
+<text x="546" y="344" class="s29_5">心</text>
+<text x="559" y="344" class="s30_5">理</text>
+<text x="573" y="344" class="s31_5">科</text>
+<text x="587" y="344" class="s32_5">学</text>
+<text x="600" y="344" class="s33_5">进</text>
+<text x="614" y="344" class="s34_5">展</text>
+<text x="628" y="344" class="s10_5">丬 串临丨丷丩为丱丱丳丰丮</text>
+<text x="110" y="366" class="s35_5">王</text>
+<text x="123" y="366" class="s36_5">晶晶</text>
+<text x="154" y="366" class="s10_5">丨串丰丱串丩丮</text>
+<text x="199" y="366" class="s37_5">跨</text>
+<text x="213" y="366" class="s38_5">文</text>
+<text x="226" y="366" class="s13_5">化</text>
+<text x="240" y="366" class="s39_5">接</text>
+<text x="254" y="366" class="s28_5">触</text>
+<text x="267" y="366" class="s20_5">对</text>
+<text x="281" y="366" class="s40_5">肤</text>
+<text x="295" y="366" class="s41_5">色</text>
+<text x="308" y="366" class="s10_5">丬</text>
+<text x="315" y="366" class="s19_5">面</text>
+<text x="329" y="366" class="s20_5">孔</text>
+<text x="343" y="366" class="s21_5">吸</text>
+<text x="356" y="366" class="s12_5">引</text>
+<text x="370" y="366" class="s22_5">力</text>
+<text x="384" y="366" class="s10_5">丬</text>
+<text x="391" y="366" class="s24_5">人</text>
+<text x="404" y="366" class="s42_5">格</text>
+<text x="418" y="366" class="s24_5">以</text>
+<text x="432" y="366" class="s13_5">及</text>
+<text x="445" y="366" class="s43_5">生</text>
+<text x="459" y="366" class="s44_5">活</text>
+<text x="473" y="366" class="s45_5">成</text>
+<text x="487" y="366" class="s22_5">功</text>
+<text x="500" y="366" class="s46_5">度</text>
+<text x="514" y="366" class="s47_5">知</text>
+<text x="528" y="366" class="s28_5">觉</text>
+<text x="541" y="366" class="s16_5">的</text>
+<text x="555" y="366" class="s12_5">影</text>
+<text x="569" y="366" class="s21_5">响</text>
+<text x="582" y="366" class="s48_5">研</text>
+<text x="596" y="366" class="s49_5">究</text>
+<text x="610" y="366" dx="0,0,0,0,-0.2,0,0,-0.3,-0.6,0,0,0,0,0,0,0,0" class="s10_5">丨乭乡乳乴乥乲丧乳 乴乨乥乳乩乳丬</text>
+<text x="701" y="366" class="s13_5">华</text>
+<text x="715" y="366" class="s24_5">东</text>
+<text x="729" y="366" class="s46_5">师</text>
+<text x="742" y="366" class="s50_5">范</text>
+<text x="756" y="366" class="s51_5">大</text>
+<text x="770" y="366" class="s20_5">学</text>
+<text x="783" y="366" class="s10_5">丩丮</text>
+<text x="110" y="387" class="s19_5">韩</text>
+<text x="123" y="387" class="s52_5">尚</text>
+<text x="137" y="387" class="s53_5">锋</text>
+<text transform="matrix(1.02, 0, 0, 1, 151, 387)" class="s10_5">丬</text>
+<text x="158" y="387" class="s17_5">李</text>
+<text x="171" y="387" class="s35_5">玥</text>
+<text transform="matrix(1.02, 0, 0, 1, 185, 387)" class="s10_5">丬</text>
+<text x="192" y="387" class="s22_5">刘</text>
+<text x="206" y="387" class="s54_5">燊</text>
+<text transform="matrix(1.02, 0, 0, 1, 219, 387)" class="s10_5">丬</text>
+<text x="226" y="387" class="s12_5">徐强</text>
+<text transform="matrix(1.02, 0, 0, 1, 254, 387)" class="s10_5">丬</text>
+<text x="261" y="387" class="s55_5">谭</text>
+<text x="275" y="387" class="s56_5">群</text>
+<text transform="matrix(1.02, 0, 0, 1, 288, 387)" class="s10_5">丬 乡乮乤</text>
+<text x="319" y="387" class="s12_5">张</text>
+<text x="333" y="387" class="s17_5">林</text>
+<text transform="matrix(1.02, 0, 0, 1, 350, 387)" class="s10_5">丨串丰丱丸丩丮</text>
+<text x="396" y="387" class="s56_5">美</text>
+<text x="409" y="387" class="s57_5">在</text>
+<text x="423" y="387" class="s28_5">观</text>
+<text x="437" y="387" class="s20_5">察</text>
+<text x="451" y="387" class="s40_5">者</text>
+<text x="464" y="387" class="s47_5">眼</text>
+<text x="478" y="387" class="s24_5">中</text>
+<text transform="matrix(1.02, 0, 0, 1, 492, 387)" class="s10_5">为</text>
+<text x="501" y="387" class="s58_5">陌</text>
+<text x="514" y="387" class="s43_5">生</text>
+<text x="528" y="387" class="s19_5">面</text>
+<text x="542" y="387" class="s20_5">孔</text>
+<text x="555" y="387" class="s21_5">吸</text>
+<text x="569" y="387" class="s12_5">引</text>
+<text x="583" y="387" class="s22_5">力</text>
+<text x="597" y="387" class="s59_5">评</text>
+<text x="610" y="387" class="s24_5">价中</text>
+<text x="638" y="387" class="s16_5">的</text>
+<text x="651" y="387" class="s36_5">晕</text>
+<text x="665" y="387" class="s26_5">轮</text>
+<text x="679" y="387" class="s38_5">效</text>
+<text x="693" y="387" class="s46_5">应</text>
+<text x="706" y="387" class="s24_5">与</text>
+<text x="720" y="387" class="s60_5">泛</text>
+<text x="734" y="387" class="s13_5">化</text>
+<text x="747" y="387" class="s38_5">效</text>
+<text x="761" y="387" class="s46_5">应</text>
+<text transform="matrix(1.02, 0, 0, 1, 775, 387)" class="s10_5">丮</text>
+<text x="783" y="387" class="s29_5">心</text>
+<text x="797" y="387" class="s30_5">理</text>
+<text x="811" y="387" class="s32_5">学</text>
+<text x="126" y="409" class="s61_5">报</text>
+<text x="140" y="409" class="s10_5">丬 丵丰丨临丩为丳丶丳丕丳丷丶丮</text>
+<text x="463" y="1145" class="s62_5">丵</text>
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: KaiTi_3q;
+	src: url("fonts/KaiTi_3q.woff") format("woff");
+}
+
+@font-face {
+	font-family: KaiTi_3s;
+	src: url("fonts/KaiTi_3s.woff") format("woff");
+}
+
+@font-face {
+	font-family: KaiTi_4b;
+	src: url("fonts/KaiTi_4b.woff") format("woff");
+}
+
+@font-face {
+	font-family: KaiTi_4c;
+	src: url("fonts/KaiTi_4c.woff") format("woff");
+}
+
+@font-face {
+	font-family: KaiTi_4p;
+	src: url("fonts/KaiTi_4p.woff") format("woff");
+}
+
+@font-face {
+	font-family: KaiTi_90;
+	src: url("fonts/KaiTi_90.woff") format("woff");
+}
+
+@font-face {
+	font-family: KaiTi_91;
+	src: url("fonts/KaiTi_91.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_3h;
+	src: url("fonts/SimSun_3h.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_3i;
+	src: url("fonts/SimSun_3i.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4-;
+	src: url("fonts/SimSun_4-.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4_;
+	src: url("fonts/SimSun_4_.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4t;
+	src: url("fonts/SimSun_4t.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4u;
+	src: url("fonts/SimSun_4u.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4v;
+	src: url("fonts/SimSun_4v.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4w;
+	src: url("fonts/SimSun_4w.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4x;
+	src: url("fonts/SimSun_4x.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_4y;
+	src: url("fonts/SimSun_4y.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_51;
+	src: url("fonts/SimSun_51.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_53;
+	src: url("fonts/SimSun_53.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_54;
+	src: url("fonts/SimSun_54.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_55;
+	src: url("fonts/SimSun_55.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_56;
+	src: url("fonts/SimSun_56.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_58;
+	src: url("fonts/SimSun_58.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5b;
+	src: url("fonts/SimSun_5b.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5d;
+	src: url("fonts/SimSun_5d.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5e;
+	src: url("fonts/SimSun_5e.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5g;
+	src: url("fonts/SimSun_5g.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5h;
+	src: url("fonts/SimSun_5h.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5j;
+	src: url("fonts/SimSun_5j.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5k;
+	src: url("fonts/SimSun_5k.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5l;
+	src: url("fonts/SimSun_5l.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5n;
+	src: url("fonts/SimSun_5n.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5p;
+	src: url("fonts/SimSun_5p.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5q;
+	src: url("fonts/SimSun_5q.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5r;
+	src: url("fonts/SimSun_5r.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5s;
+	src: url("fonts/SimSun_5s.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5t;
+	src: url("fonts/SimSun_5t.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5u;
+	src: url("fonts/SimSun_5u.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5w;
+	src: url("fonts/SimSun_5w.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5x;
+	src: url("fonts/SimSun_5x.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5y;
+	src: url("fonts/SimSun_5y.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_5z;
+	src: url("fonts/SimSun_5z.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_60;
+	src: url("fonts/SimSun_60.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_63;
+	src: url("fonts/SimSun_63.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_65;
+	src: url("fonts/SimSun_65.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_66;
+	src: url("fonts/SimSun_66.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_6_;
+	src: url("fonts/SimSun_6_.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_7a;
+	src: url("fonts/SimSun_7a.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_7b;
+	src: url("fonts/SimSun_7b.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_7e;
+	src: url("fonts/SimSun_7e.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_7f;
+	src: url("fonts/SimSun_7f.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_7l;
+	src: url("fonts/SimSun_7l.woff") format("woff");
+}
+
+@font-face {
+	font-family: TeXGyreTermes-Italic_3m;
+	src: url("fonts/TeXGyreTermes-Italic_3m.woff") format("woff");
+}
+
+@font-face {
+	font-family: TeXGyreTermes-Regular_3l;
+	src: url("fonts/TeXGyreTermes-Regular_3l.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

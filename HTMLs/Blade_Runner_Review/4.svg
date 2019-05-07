@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 4 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_4{
+font-size: 16.67px;
+font-family: TimesNewRomanPSMT_1_;
+fill: #000000;
+}
+.s2_4{
+font-size: 16.67px;
+font-family: TimesNewRomanPS-ItalicMT_23;
+fill: #000000;
+}
+.s3_4{
+font-size: 21.92px;
+font-family: TimesNewRomanPS-BoldMT_1x;
+fill: #000000;
+}
+.s4_4{
+font-size: 16.67px;
+font-family: TimesNewRomanPSMT_1_;
+fill: #800000;
+}
+.s5_4{
+font-size: 13.70px;
+font-family: TimesNewRomanPSMT_1_;
+fill: #000000;
+}
+
+.g0_4{
+fill: none;
+stroke: #000000;
+stroke-width: 0.6088194;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text x="308" y="68" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4,0,0,0,0,0,0,0,0,0" class="s1_4">Midterm Papre: Review for</text>
+<text x="497" y="68" class="s2_4">Blade Runner 2049</text>
+<path d="M110,74.7H825" class="g0_4" />
+<text x="110" y="126" class="s3_4">3</text>
+<text x="142" y="126" dx="0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s3_4">Technology Meets Liberal Arts</text>
+<text x="135" y="170" dx="0,0,0,0,0,0,-0.8,0,0,0,-0.8,0,0,0,0,0,0,-0.8,0,-0.8,0,0,0,0,0,-0.8,0,0,-0.8,0,0,0,0,0,0,0,1,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0" class="s1_4">There are mainly 3 kinds of sci-fi: the hard ones</text>
+<text x="458" y="170" dx="0,-0.7,0,0,0,0,0,0,0" class="s4_4">Wikipedia</text>
+<text x="530" y="170" class="s1_4">(</text>
+<text x="535" y="170" class="s4_4">2019b</text>
+<text x="577" y="170" dx="0,0,0,-0.7,0,0,0,0,0,-0.8,0,0,0,-0.8,0,0,0,0,0,0,-0.8,0,-0.8,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0" class="s1_4">), which may follow a huge quantities</text>
+<text x="110" y="197" dx="0,0,0,1.8,0,0,0,0,0,1.8,0,0,0,0,0,0,0,1.8,0,0,0,0,1.8,0,0,0,1.8,0,0,0,0,0,0,0,0,0,1.8,0,0,0,1.8,0,0,0,0,0,0,1.8,0,0,0,0,0,1.8,0,0,1.8,0,0,0,1.8,0,0,0,0,0,1.8,0,0,0,0,0,0,0,0,0,0,0,0,2.3,0,0,0,0,1.8,0" class="s1_4">of known physics laws and describes the future world or the space exploration, such as</text>
+<text x="720" y="197" dx="0,0,0,0,0,0,5,0,1.8,0,0,0,0" class="s2_4">2001: A Space</text>
+<text x="110" y="224" class="s2_4">Odyssey</text>
+<text x="165" y="224" dx="0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,-0.1,0,0,0,0,0,-0.1,0,0,0" class="s1_4">; the soft ones, which may describe the variations of human thoughts and behaviors in a world with</text>
+<text x="110" y="251" dx="0,0,0,0,0,0,0,1.4,0,0,0,0,0,0,0,0,1.4,0,0,0,0,0,0,0,0,0,-1.1,0,1.7,0,0,0,0,1.4,0" class="s1_4">highly advanced technology, such as</text>
+<text x="365" y="251" dx="0,0,0,0,0,0,1.4,0,0,0,0,0,0,1.4,0,0,0" class="s2_4">Blade Runner 2049</text>
+<text x="497" y="251" dx="0,0,2.1,0,0,0,1.4,0,0,0,0,1.4,0,0,0,0,0,1.7,0,0,0,0,0,1.4,0,0,0,1.4,0,0,0,0,1.4,0,0,0,0,0,0,0,0,1.4,0,0,0,0,0,0" class="s1_4">; the fake ones, which may tell romantic stories</text>
+<text x="110" y="278" class="s1_4">under the framework of future world, such as</text>
+<text x="415" y="278" class="s2_4">Passengers</text>
+<text x="491" y="278" class="s1_4">.</text>
+<text x="135" y="305" dx="0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" class="s1_4">As soft science fiction,</text>
+<text x="291" y="305" dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0" class="s2_4">Blade Runner 2049</text>
+<text x="424" y="305" dx="0,0,0,0,-0.3,0,-0.3,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0" class="s1_4">did a great job handling the relationship between human and</text>
+<text x="109" y="332" dx="0,0,0,0,0,0,0,0,0,0,-1.1,0,1.3,0,0,-0.1,0,-0.1,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0" class="s1_4">technology. As a classical cyberpunk movie, it pays much attention to describing a ”combination of lowlife</text>
+<text x="109" y="359" dx="0,0,0,0,0.7,0,0,0,0,0.7,0,0,0,0" class="s1_4">and high tech”</text>
+<text x="218" y="359" dx="0,-0.7,0,0,0,0,0,0,0" class="s4_4">Wikipedia</text>
+<text x="292" y="359" class="s1_4">(</text>
+<text x="297" y="359" class="s4_4">2019c</text>
+<text x="338" y="359" dx="0,0,0,0.9,0,0,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0,0,0,0.8,0,0,0,0,0,0.8,0,0,0.7,0,0,0,0,0,0.7,0,0.8,0,0,0,0,0,0,2.9,0,0,-0.9,0,0.7,0,0,0,0.7,0,0" class="s1_4">), which perfectly demonstrates the value of being a human: It’s not the</text>
+<text x="110" y="386" class="s1_4">DNA or the high tech but the human nature that makes us human.</text>
+<text x="135" y="412" dx="0,0,0,0,-0.6,0,0,0,0,0,-0.5,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,0,0,-0.5,0,0,0,0,-0.6,0,0,0,0,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0,0,-0.9,0,1.2,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0" class="s1_4">The real, or biologically real human, know nothing but sex and power. When news comes that replicants</text>
+<text x="110" y="439" dx="0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0,0,-0.8,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,-0.9,0,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,-0.8,0,0,0" class="s1_4">may reproduce, they tried everything to hunt them down. Replicants are made with many limitations, or with</text>
+<text x="110" y="466" dx="0,0,-0.9,0,0.6,0,0,0,0,0,0,0.8,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0,0,0,3.3,0,0,0,0,0,0.6,0,0,0,0,0.6,0,0,0,0,0.6,0,0,0.6,0,0,0,0,0,0.6,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0,0,0.8,0,0,0,0,0.6,0,0,0,0.8,0,0,0,0,0,0.6,0,0,0,0,0,0,3.3,0,0,0.6,0,0" class="s1_4">K’s words, ’with no soul’. While they give up their lives to protect the miracle, that is, their child. At the</text>
+<text x="110" y="493" dx="0,0,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,-1.2,0,-0.1,0,0,-0.1,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0" class="s1_4">same time, Joi, a virtual ’human’, coded by 0 and 1 instead of A, T, G, C, loves her real boyfriend sincerely</text>
+<text x="110" y="520" class="s1_4">and goes wherever he goes.</text>
+<text x="135" y="547" dx="0,-1.3,0,-0.1,0,0,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0" class="s1_4">We should hope the future technology may not lead to disasters, but we should also hope that we would</text>
+<text x="110" y="574" dx="0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,1.3,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0" class="s1_4">not neglect what makes us human. Just like the lines remembered by countless people in</text>
+<text x="700" y="574" dx="0,0,0,0,0,0,-0.3,0,0,0,0,0" class="s2_4">Blade Runner</text>
+<text x="791" y="574" dx="0,0,-0.3,0,0,0" class="s1_4">, that</text>
+<text x="110" y="601" class="s1_4">is truly what ’glitter in the darkness’ in the infinite space.</text>
+<text x="110" y="663" dx="0,0,0,0,0,-0.4,0,0,0,0" class="s3_4">References</text>
+<text x="110" y="701" dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">Wikipedia, t. f. e. (2019a). Blade runner 2049.</text>
+<text x="110" y="723" dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" class="s5_4">Wikipedia, t. f. e. (2019b). Hard science fiction.</text>
+<text x="110" y="745" dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5,0,0,0,0,0,0,0,0,0" class="s5_4">Wikipedia, the free encyclopedia, u. (2019c). Cyberpunk.</text>
+<text x="463" y="1145" class="s1_4">4</text>
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: TimesNewRomanPS-BoldMT_1x;
+	src: url("fonts/TimesNewRomanPS-BoldMT_1x.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRomanPS-ItalicMT_23;
+	src: url("fonts/TimesNewRomanPS-ItalicMT_23.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRomanPSMT_1_;
+	src: url("fonts/TimesNewRomanPSMT_1_.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

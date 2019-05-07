@@ -86,15 +86,13 @@ query_lean.find().then(function (results_lean) {
 });
 
 function newArticleOpen_lean(idx) {
-  location.href = "HTMLs/article.html?" + articleList_lean[idx].get('Index');
+  if (articleList_lean[idx].get('Mode')==0)
+    location.href = "HTMLs/article.html?" + articleList_lean[idx].get('Index');
+  else location.href = articleList_lean[idx].get('Pdf_Add');
 }
 
 function newArticleOpen(idx) {
-  location.href = "HTMLs/article.html?" + articleList[idx].get('Index');
-}
-
-
-function openFile () {
-  var url = "1.pdf";
-  window.open("pdfjs/web/viewer.html?file=" + url);
+  if (articleList[idx].get('Mode')==0)
+    location.href = "HTMLs/article.html?" + articleList[idx].get('Index');
+  else location.href = articleList[idx].get('Pdf_Add');
 }

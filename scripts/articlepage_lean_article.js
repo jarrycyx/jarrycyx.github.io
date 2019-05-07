@@ -27,11 +27,3 @@ query.first().then(function (data) {
 	document.getElementById('main').innerHTML = data.get('Data');
 }, function (error) {
 });
-
- 
-$('#handout_wrap_inner').media({
-	width: '100%',
-	height: '1500px',
-	autoplay: true,
-	src:'http://storage.xuetangx.com/public_assets/xuetangx/PDF/PlayerAPI_v1.0.6.pdf',
-}); 

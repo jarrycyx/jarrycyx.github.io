@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 5 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s1_5{
+font-size: 16.67px;
+font-family: SimSun_2b;
+fill: #000000;
+}
+.s2_5{
+font-size: 21.92px;
+font-family: SimHei_28;
+fill: #000000;
+}
+.s3_5{
+font-size: 13.70px;
+font-family: TimesNewRomanPSMT_2e;
+fill: #000000;
+}
+.s4_5{
+font-size: 13.70px;
+font-family: SimSun_2b;
+fill: #000000;
+}
+.s5_5{
+font-size: 13.70px;
+font-family: KaiTi_2m;
+fill: #000000;
+}
+.s6_5{
+font-size: 16.67px;
+font-family: TimesNewRomanPSMT_2e;
+fill: #000000;
+}
+
+.g0_5{
+fill: none;
+stroke: #000000;
+stroke-width: 0.6088194;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text x="346" y="68" class="s1_5">《走向共和》与当代国人历史观</text>
+<path d="M110,74.7H825" class="g0_5" />
+<text x="110" y="127" class="s2_5">参考文献</text>
+<text x="110" y="166" class="s3_5">[1]</text>
+<text x="134" y="166" class="s4_5">萧功秦</text>
+<text x="175" y="166" class="s3_5">.</text>
+<text x="183" y="166" class="s4_5">从《走向共和》的人物形象看历史范式的转换</text>
+<text x="457" y="166" class="s3_5">.</text>
+<text x="466" y="166" class="s5_5">探索与争鸣</text>
+<text x="534" y="166" class="s3_5">, 06:26–27, 2003.</text>
+<text x="110" y="188" class="s3_5">[2]</text>
+<text x="134" y="188" class="s4_5">邵燕君</text>
+<text x="175" y="188" class="s3_5">.</text>
+<text x="187" y="188" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0" class="s4_5">“新保守主义”的集体无意识——解读《走向共和》</text>
+<text x="501" y="188" class="s3_5">.</text>
+<text x="509" y="188" class="s5_5">文艺理论与批评</text>
+<text x="605" y="188" class="s3_5">, 03:41–53, 2004.</text>
+<text x="110" y="210" class="s3_5">[3]</text>
+<text x="134" y="210" class="s4_5">龚云</text>
+<text x="161" y="210" class="s3_5">.</text>
+<text x="170" y="210" class="s4_5">尊重历史</text>
+<text x="224" y="210" class="s3_5">,</text>
+<text x="231" y="210" dx="0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0" class="s4_5">才能展现历史——评电视剧《走向共和》</text>
+<text x="477" y="210" class="s3_5">.</text>
+<text x="485" y="210" class="s5_5">高校理论战线</text>
+<text x="568" y="210" class="s3_5">, 06:54–55, 2003.</text>
+<text x="463" y="1145" class="s6_5">5</text>
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: KaiTi_2m;
+	src: url("fonts/KaiTi_2m.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimHei_28;
+	src: url("fonts/SimHei_28.woff") format("woff");
+}
+
+@font-face {
+	font-family: SimSun_2b;
+	src: url("fonts/SimSun_2b.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRomanPSMT_2e;
+	src: url("fonts/TimesNewRomanPSMT_2e.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
